@@ -1,0 +1,24 @@
+2023-01-09 17:21:58,835 3541 [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-09 17:21:58,840 3546 [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\SHIVANANDA T S\workspace\Spotify_Api_Framework/reports/Automation Report- 01_09_2023_17_21_58
+2023-01-09 17:21:58,908 3614 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-09 17:21:58,908 3614 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-09 17:22:03,215 7921 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-09 17:22:03,219 7925 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-09 17:22:03,417 8123 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-09 17:22:03,423 8129 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-09 17:22:03,453 8159 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-09 17:22:06,296 11002 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-09 17:22:06,297 11003 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-09 17:22:06,333 11039 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-09 17:22:06,333 11039 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-09 17:22:06,335 11041 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-09 17:22:08,224 12930 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-09 17:22:08,226 12932 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-09 17:22:08,270 12976 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-09 17:22:08,271 12977 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-09 17:22:08,272 12978 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000
+2023-01-09 17:22:10,140 14846 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: application/json; charset=utf-8
+2023-01-09 17:22:10,141 14847 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-09 17:22:10,157 14863 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-09 17:22:10,159 14865 [main] INFO  com.spotify.baseutil.BaseTest - Content type is: application/json
+2023-01-09 17:22:10,164 14870 [main] INFO  com.spotify.baseutil.BaseTest - Response time is less than: 2000

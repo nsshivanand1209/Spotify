@@ -1,0 +1,7 @@
+2023-01-09 11:20:19,394 956  [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-09 11:20:19,403 965  [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\SHIVANANDA T S\workspace\Spotify_Api_Framework/reports/Automation Report- 01_09_2023_11_20_19
+2023-01-09 11:20:19,514 1076 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-09 11:20:19,516 1078 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-09 11:20:23,109 4671 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: text/html;charset=utf-8
+2023-01-09 11:20:23,118 4680 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-09 11:20:23,154 4716 [main] WARN  io.restassured.assertion.CookieMatcher - Ignoring unparsable 'Expires' attribute value: 2023-01-9 06:50:21.841

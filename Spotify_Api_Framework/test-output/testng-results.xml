@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11263" started-at="2023-01-09T17:21:58 IST" finished-at="2023-01-09T17:22:10 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11263" started-at="2023-01-09T17:21:58 IST" finished-at="2023-01-09T17:22:10 IST">
+      <class name="com.spotify.endToend.scripts.TC_001_Spotify">
+        <test-method status="PASS" signature="createFiles()[pri:0, instance:com.spotify.endToend.scripts.TC_001_Spotify@34129c78]" name="createFiles" is-config="true" duration-ms="80" started-at="2023-01-09T17:21:58 IST" finished-at="2023-01-09T17:21:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createFiles -->
+        <test-method status="PASS" signature="launchApp()[pri:0, instance:com.spotify.endToend.scripts.TC_001_Spotify@34129c78]" name="launchApp" is-config="true" duration-ms="4" started-at="2023-01-09T17:21:58 IST" finished-at="2023-01-09T17:21:58 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApp -->
+        <test-method status="PASS" signature="setExtentReport(java.lang.reflect.Method)[pri:0, instance:com.spotify.endToend.scripts.TC_001_Spotify@34129c78]" name="setExtentReport" is-config="true" duration-ms="388" started-at="2023-01-09T17:21:59 IST" finished-at="2023-01-09T17:21:59 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.spotify.endToend.scripts.TC_001_Spotify.artist(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtentReport -->
+        <test-method status="PASS" signature="artist(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.spotify.endToend.scripts.TC_001_Spotify@34129c78]" name="artist" duration-ms="10708" started-at="2023-01-09T17:21:59 IST" data-provider="data1" finished-at="2023-01-09T17:22:10 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2)Artist]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2wQP7peRciPJyvzDDmroBV]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[5vdQaS4RKtL7t7n6Php6A5,45VcCRQRa6cyT9xkwvL6Uk]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[null]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- artist -->
+      </class> <!-- com.spotify.endToend.scripts.TC_001_Spotify -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

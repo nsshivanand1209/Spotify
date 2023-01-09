@@ -1,0 +1,11 @@
+2023-01-09 11:18:04,068 1672 [main] INFO  com.spotify.baseutil.BaseTest - Folder creation for Extent
+2023-01-09 11:18:04,081 1685 [main] INFO  com.spotify.baseutil.BaseTest - ExtentDir:-C:\Users\SHIVANANDA T S\workspace\Spotify_Api_Framework/reports/Automation Report- 01_09_2023_11_18_04
+2023-01-09 11:18:04,224 1828 [main] INFO  com.spotify.baseutil.BaseTest - Report Initiated
+2023-01-09 11:18:04,225 1829 [main] INFO  com.spotify.baseutil.BaseTest - Screenshot folder created
+2023-01-09 11:18:08,576 6180 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsing response as: text/html;charset=utf-8
+2023-01-09 11:18:08,580 6184 [main] DEBUG i.r.i.RequestSpecificationImpl$RestAssuredHttpBuilder - Parsed data to instance of: class org.apache.http.conn.EofSensorInputStream
+2023-01-09 11:18:08,633 6237 [main] WARN  io.restassured.assertion.CookieMatcher - Ignoring unparsable 'Expires' attribute value: 2023-01-9 06:48:07.552
+2023-01-09 11:18:09,139 6743 [main] INFO  com.spotify.baseutil.BaseTest - Status code is: 200
+2023-01-09 11:18:09,173 6777 [main] ERROR com.spotify.baseutil.BaseTest - 1 expectation failed.
+Expected content-type "application/json" doesn't match actual content-type "text/html;charset=utf-8".
+
